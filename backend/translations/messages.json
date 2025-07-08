@@ -1,0 +1,47 @@
+{
+  "MSG001": {
+    "pt": "Usuário criado com sucesso",
+    "en": "User created successfully",
+    "es": "Usuario creado con éxito"
+  },
+  "MSG002": {
+    "pt": "Email ou senha inválidos",
+    "en": "Invalid email or password",
+    "es": "Correo o contraseña inválidos"
+  },
+  "MSG003": {
+    "pt": "Bem-vindo ao Finport!",
+    "en": "Welcome to Finport!",
+    "es": "¡Bienvenido a Finport!"
+  },
+  "MSG004": {
+    "pt": "Usuário já existente",
+    "en": "User already created",
+    "es": "Usuário já existente"
+  },
+  "MSG005": {
+    "pt": "Token inválido",
+    "en": "Invalid token",
+    "es": "Token inválido"
+  },
+  "MSG006": {
+    "pt": "Erro na criaçãoo de uma corretora",
+    "en": "Error on brokerage created",
+    "es": "Erro en la criacion de corretoras"
+  },
+  "MSG007": {
+    "pt": "Erro ao processar os dados enviados",
+    "en": "Failed to parse sent data",
+    "es": "Error al procesar los datos enviados"
+  },
+  "MSG008": {
+    "pt": "Erro ao criar usuário",
+    "en": "Error creating user",
+    "es": "Error al crear usuario"
+  },
+  "MSG009": {
+    "pt": "ação",
+    "en": "stock",
+    "es": "acción",
+  }
+}

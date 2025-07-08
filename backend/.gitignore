@@ -1,0 +1,40 @@
+# Go build
+/bin/
+/build/
+/dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Módulos Go (safe)
+vendor/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Configuração local
+.env
+.env.local
+.env.*.local
+
+# Docker
+docker-compose.override.yml
+
+# Migrations (build intermediário)
+migrations_build/
+
+# Cobertura de testes
+coverage.out
+.env
