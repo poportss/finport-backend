@@ -1,7 +1,7 @@
 # Dockerfile (exemplo básico para app Go)
 FROM golang:1.21 AS builder
 WORKDIR /app
-COPY . .
+COPY backend .
 RUN go build -o app ./cmd
 
 FROM debian:bullseye-slim

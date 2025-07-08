@@ -75,7 +75,6 @@ func main() {
 func autoMigrate(db *gorm.DB) error {
 	err := db.Migrator().DropTable(
 		&models.User{},
-		&models.Brokerage{},
 		&models.BrokerageAsset{},
 		&models.BrokerageNote{},
 		&models.Trade{},
